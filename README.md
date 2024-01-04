@@ -13,3 +13,5 @@
 -Provavelmente o IdTipo da tabela Unidade deveria ser IdEdificio
 -A biometria deveria ser uma entidade ligada aos moradores e ao edifício no qual ele mora e os moradores derevão ter outra maneira de acesso como uma senha para caso a biometria não funcione 
 -Estão faltando os namutes
+
+5- anexo Immolink
